@@ -3,10 +3,15 @@ step 1 learn programming language (c language, python)
 step 2 basic skills
 
   --     operating system
+  
   --     database
+  
   --     Principles of Compiler
+  
   --     ui library
+  
   --     Algorithm and data structure
+  
   --     tcp/ip
 
 step 3 note

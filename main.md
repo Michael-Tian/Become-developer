@@ -1,5 +1,7 @@
 step 1 learn programming language (c language, python)
+
 step 2 basic skills
+
   --     operating system
   --     database
   --     Principles of Compiler

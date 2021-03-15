@@ -41,8 +41,12 @@ I was confused when I was learning programming, so I wrote a very simple md file
 0x02 Web and moblie
 ===================
   ##### learn to web development and android/ios
-  >Web
+  > ### Web
   >> backend 
+  >>> * Laravel 
+  >>> * Django 
+  >>> * Nodejs 
+  >>> * Spring boot 
 
   
 0x02 Node

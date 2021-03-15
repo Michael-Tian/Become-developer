@@ -25,4 +25,29 @@ I was confused when I was learning programming, so I wrote a very simple md file
   
 0x01 Basic Skills
 =================
-  >
+  ##### Help you make it easier(become developer)
+  > Operating system
+  
+  > Database
+
+  > Principles of Compiler
+
+  > Gui library
+
+  > Algorithm and data structure
+  
+  > tcp/ip
+
+0x02 Web and moblie
+===================
+  ##### learn to web development and android/ios
+  >Web
+  >> backend 
+
+  
+0x02 Node
+=========
+  >Keep calm
+  
+  >Keep coding
+

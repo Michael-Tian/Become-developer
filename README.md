@@ -55,7 +55,7 @@ I was confused when I was learning programming, so I wrote a very simple md file
   >>> * Angular.js
 
   
-0x03 Node
+0x03 Note
 =========
   * Keep calm
   

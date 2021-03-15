@@ -42,16 +42,28 @@ I was confused when I was learning programming, so I wrote a very simple md file
 ===================
   ##### learn to web development and android/ios
   > ### Web
+  
   >> backend 
   >>> * Laravel 
   >>> * Django 
   >>> * Nodejs 
   >>> * Spring boot 
+  
+  >> frontend
+  >>> html/css/javascript
+  >>> * Vue.js
+  >>> * React.js
+  >>> * Angular.js
 
   
 0x02 Node
 =========
-  >Keep calm
+  * Keep calm
   
-  >Keep coding
+  * Keep coding
+  
+  * Reading open source project
+  
+  
+
 

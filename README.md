@@ -3,7 +3,7 @@ How to become developer
 
 I was confused when I was learning programming, so I wrote a very simple md file similar to roudmap
 
-
+# Begin
 0x00 getting Started
 =============
   >Learn a programming language
@@ -40,7 +40,7 @@ I was confused when I was learning programming, so I wrote a very simple md file
 
 0x02 Web and moblie
 ===================
-  ##### learn to web development and android/ios
+  ##### learn to web development and release moblie app
   > ### Web
   
   >> backend 
@@ -56,7 +56,7 @@ I was confused when I was learning programming, so I wrote a very simple md file
   >>> * Angular.js
 
   
-0x02 Node
+0x03 Node
 =========
   * Keep calm
   
@@ -64,6 +64,12 @@ I was confused when I was learning programming, so I wrote a very simple md file
   
   * Reading open source project
   
+  
+0x04 Do what you really likes
+=============================
+
+# End
+
   
 
 

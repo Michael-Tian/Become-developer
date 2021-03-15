@@ -6,8 +6,7 @@ I was confused when I was learning programming, so I wrote a very simple md file
 # Begin
 0x00 getting Started
 =============
-  >Learn a programming language
-  >>  c\c++ and python
+  >Learn a programming language >>  c\c++ and python
   ```python 
     print('Hello, World!') #python code
   ```
@@ -71,5 +70,5 @@ I was confused when I was learning programming, so I wrote a very simple md file
 # End
 
   
-
+aaaaaa
 

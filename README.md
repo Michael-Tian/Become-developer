@@ -7,7 +7,7 @@ I was confused when I was learning programming, so I wrote a very simple md file
 # Begin
   first,you need text editor(vim)
   ------------------------------
-![pic](https://github.com/Michael-Tian/Become-developer/blob/main/img/github-vim.png)
+![pic](https://github.com/Michael-Tian/Become-developer/blob/main/img/github-ex.png)
 0x00 getting Started
 =============
   >Learn a programming language >>  c\c++ and python

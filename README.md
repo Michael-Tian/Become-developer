@@ -3,6 +3,8 @@ How to become developer
 
 I was confused when I was learning programming, so I wrote a very simple md file similar to roudmap
 
+![pic](https://github.com/Michael-Tian/Become-developer/blob/main/img/github-vim.png)
+
 # Begin
 0x00 getting Started
 =============
